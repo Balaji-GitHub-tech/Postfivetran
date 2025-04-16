@@ -1,0 +1,1 @@
+Select * from snowflake_db_myschema.departments
